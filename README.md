@@ -14,5 +14,13 @@ Practice
 * Paranthesis Matching Check (Stack)
 * Implementing a Circular Queue
 
+## Day 2 Work - Deep dive in LinkedList, Stacks and Queues - Use cases and Applications.
 
+Assignment
+* Program that fetches maximum element in the stack according to user 'type' queries.
 
+Practice
+* Program to detect loop in a LinkedList
+* Polynomial Representation using LinkedList
+* Infix to Postfix conversion (Stack)
+* Implementing Queue using LinkedList
